@@ -1,4 +1,4 @@
--- Hi there :wave:
+- Hi there :wave:
 
 - Hello, my name is Gabriel. welcome to my profile!
 - I studying Computing Science with a focus on web development.
