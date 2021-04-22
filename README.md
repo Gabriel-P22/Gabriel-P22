@@ -28,6 +28,4 @@
 ---
 
 <img align="left" alt="Gabriel Paschoal's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gabriel-P22&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-P22)](https://github.com/Gabriel-P22/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-P22&theme=radical&show_icons=true)
