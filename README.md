@@ -29,3 +29,4 @@
 
 <img align="left" alt="Gabriel Paschoal's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gabriel-P22&show_icons=true&hide_border=true" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-P22&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
