@@ -27,6 +27,7 @@
 
 ---
 
-<img align="left" alt="Gabriel Paschoal github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gabriel-P22&show_icons=true&hide_border=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-P22&show_icons=true&theme=Default)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-P22)](https://github.com/Gabriel-P22/github-readme-stats)
