@@ -1,9 +1,9 @@
 - Hi there :wave:
 
 - Hello, my name is Gabriel. Welcome to my profile !
-- I'm studying Computing Science with a focus on web development.
+- I'm studying Computing Science with a focus on web development and mobile development.
 
-- I'm learning a bit of Web Development with JavaScript and React.js.
+- I'm learning a bit of React and Swift.
 
 - Contact me !
 
@@ -20,6 +20,7 @@
 <img align="left" alt="CSS" width="30px" src="https://img.icons8.com/color/2x/css3.png" />
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/72/html-5.png" />
 <img align="left" alt="React" width="30px" src="https://img.icons8.com/plasticine/2x/react.png" />
+<img align="left" alt="React" width="30px" src="https://img.icons8.com/plasticine/2x/swift.png" />
 
 
 <br />
