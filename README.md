@@ -21,7 +21,6 @@
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/72/html-5.png" />
 <img align="left" alt="React" width="30px" src="https://img.icons8.com/plasticine/2x/react.png" />
 <img align="left" alt="React" width="30px" src="https://img.icons8.com/plasticine/2x/swift.png" />
-<img align="left" alt="React" width="30px" src="https://img.icons8.com/plasticine/2x/Java.png" />
 
 
 
