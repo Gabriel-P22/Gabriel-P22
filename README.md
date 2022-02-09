@@ -1,7 +1,7 @@
 - Hi there :wave:
 
 - Hello, my name is Gabriel. Welcome to my profile !
-- I'm studying Computing Science with a focus on web development and mobile development.
+- I'm studying Computing Science with a focus on mobile development.
 
 - I'm learning a bit of React and Swift.
 
