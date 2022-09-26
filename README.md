@@ -1,11 +1,11 @@
 - Hi there :wave:
 
-- Hello, my name is Gabriel. Welcome to my profile !
+- Hello, my name is Gabriel. Welcome to my profile!
 - I'm studying Computing Science with a focus on mobile development.
 
 - I'm learning a bit of React and Swift.
 
-- Contact me !
+- Contact me!
 
 <a href="https://www.linkedin.com/in/gabrielpaschoal2001/"><img align="left" alt="Gabriel Paschoal | Linkedin" width="30px" src="https://img.icons8.com/color/72/linkedin.png"/></a>
 
