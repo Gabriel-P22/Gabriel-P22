@@ -20,8 +20,6 @@ Welcome! I'm **Gabriel**, a passionate full-stack developer with experience in b
 
 ### 🧰 Languages & Tools
 
-### 🧰 Languages & Tools
-
 <p align="left">
   <img alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/>
@@ -40,7 +38,8 @@ Welcome! I'm **Gabriel**, a passionate full-stack developer with experience in b
 ---
 
 ### 📊 GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-P22&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-P22&layout=compact)](https://github.com/Gabriel-P22/github-readme-stats)
+<p align="left"> 
+  ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-P22&show_icons=true&theme=default)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-P22&layout=compact)](https://github.com/Gabriel-P22/github-readme-stats)
+<p />
