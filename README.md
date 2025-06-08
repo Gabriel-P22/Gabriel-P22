@@ -37,8 +37,8 @@ Welcome! I'm **Gabriel**, a passionate full-stack developer with experience in b
 ### 📊 GitHub Stats
 <div align="center"><br>
   <a href="https://github.com/Gabriel-P22">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-P22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-P22&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-P22&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-P22&layout=compact&langs_count=5&theme=github_dark&hide_border=true&bg_color=00000000"/>
   </a>
 </div>
 
