@@ -5,10 +5,10 @@ Welcome! I'm **Gabriel**, a passionate full-stack developer with experience in b
 🎓 I'm currently studying **Computer Science**, with a strong focus on mobile development.
 
 🛠️ I work with:
-- **Frontend**: Next.js, React
-- **Backend**: Spring Boot, NestJS
+- **Frontend**: Next.js, React, Angular
+- **Backend**: Spring Boot, NestJS, Node
 - **Mobile**: Swift (iOS), React Native
-- **DevOps / Infra**: Docker, Terraform, GitHub Actions
+- **DevOps / Infra**: Docker, Terraform, GitHub Actions, Ansible, Jenkins, GithubActions
 
 🚀 I'm always looking to learn, build, and collaborate on impactful projects.
 
@@ -16,8 +16,6 @@ Welcome! I'm **Gabriel**, a passionate full-stack developer with experience in b
 [</br><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/gabrielpaschoal2001/)
 
 ---
-
-### 🧰 Languages & Tools
 
 <p align="left">
   <img alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -38,7 +36,16 @@ Welcome! I'm **Gabriel**, a passionate full-stack developer with experience in b
 
 ### 📊 GitHub Stats
 <p align="left"> 
-  ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-P22&show_icons=true&theme=default)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-P22&layout=compact)](https://github.com/Gabriel-P22/github-readme-stats)
+
+  <div align="center"></br>
+  <a href="https://github.com/romosken">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=romosken&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romosken&layout=compact&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000"/>
+</div>
+
+<div align="center"></br>
+  <a href="https://github.com/romosken">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-P22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-P22&layout=compact&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000"/>
+</div>
 <p />
