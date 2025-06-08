@@ -35,14 +35,6 @@ Welcome! I'm **Gabriel**, a passionate full-stack developer with experience in b
 ---
 
 ### 📊 GitHub Stats
-<p align="left"> 
-
-  <div align="center"></br>
-  <a href="https://github.com/romosken">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=romosken&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romosken&layout=compact&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000"/>
-</div>
-
 <div align="center"><br>
   <a href="https://github.com/Gabriel-P22">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-P22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
@@ -50,4 +42,3 @@ Welcome! I'm **Gabriel**, a passionate full-stack developer with experience in b
   </a>
 </div>
 
-<p />
