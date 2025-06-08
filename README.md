@@ -13,6 +13,7 @@ Welcome! I'm **Gabriel**, a passionate full-stack developer with experience in b
 🚀 I'm always looking to learn, build, and collaborate on impactful projects.
 
 📬 Feel free to reach out!
+
 [</br><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/gabrielpaschoal2001/)
 
 ---
